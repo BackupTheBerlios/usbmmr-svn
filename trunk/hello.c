@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main(int argc, char** argv)
+/**
+* Just a stupid svn test.
+*/
+int 
+main(int argc, char** argv)
 {
 	printf("Hello Evgeni and Sven.  This is Holger speaking!\n");
 	return 0;
