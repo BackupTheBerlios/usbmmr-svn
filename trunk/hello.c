@@ -1,9 +1,7 @@
 #include <stdio.h>
 
-int 
-main(int argc, char** argv)
+int main(int argc, char** argv)
 {
-	printf("Hello Evgeni and Sven!\n");
+	printf("Hello Evgeni and Sven.  This is Holger speaking!\n");
 	return 0;
-}
-
+ } 
