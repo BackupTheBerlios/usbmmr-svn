@@ -1,0 +1,10 @@
+[Directory]
+PCB_Library.LIB=PCBLib
+Schematic_Library.Lib=SchLib
+Schematic_Template.dot=Sch
+[PCB_Library.LIB]
+Editor Kind=PCBLib
+[Schematic_Library.Lib]
+Editor Kind=SchLib
+[Schematic_Template.dot]
+Editor Kind=Sch

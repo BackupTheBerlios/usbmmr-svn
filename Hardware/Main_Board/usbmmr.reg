@@ -1,0 +1,7 @@
+[Directory]
+PCB=Folder
+Schematic=Folder
+[PCB]
+Editor Kind=Folder
+[Schematic]
+Editor Kind=Folder

@@ -1,0 +1,15 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+HDD_Board=Folder
+Library=Folder
+UI_Board=Folder
+Main_Board=Folder
+[HDD_Board]
+Editor Kind=Folder
+[Library]
+Editor Kind=Folder
+[UI_Board]
+Editor Kind=Folder
+[Main_Board]
+Editor Kind=Folder

@@ -1,0 +1,27 @@
+[Directory]
+Main_2_Controller.Sch=Sch
+Main_4_Decoder.Sch=Sch
+Main_5_Fader.Sch=Sch
+Main_6_Power.Sch=Sch
+Main_3_Radio+RDS.Sch=Sch
+Main_1_Top.Sch=Sch
+[Main_2_Controller.Sch]
+Editor Kind=Sch
+[Main_4_Decoder.Sch]
+Editor Kind=Sch
+[Main_5_Fader.Sch]
+Editor Kind=Sch
+[Main_6_Power.Sch]
+Editor Kind=Sch
+[Main_3_Radio+RDS.Sch]
+Editor Kind=Sch
+[Main_1_Top.Sch]
+Editor Kind=Sch
+Attributes=131072
+[Main_1_Top.Sch Childlist]
+ChildCount=5
+Child1=MPR_Main_2_Controller.Sch
+Child2=MPR_Main_3_Radio_RDS.Sch
+Child3=MPR_Main_4_Decoder.Sch
+Child4=MPR_Main_5_Fader.Sch
+Child5=MPR_Main_6_Power.Sch
